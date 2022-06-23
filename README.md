@@ -1,2 +1,2 @@
-# AdityaProjects
+# Learning Management System
 CS Projects
